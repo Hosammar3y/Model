@@ -1,0 +1,7 @@
+scipy
+glob
+pandas
+gc
+sklearn
+numpy
+pydub
